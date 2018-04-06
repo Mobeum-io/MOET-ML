@@ -26,3 +26,14 @@ Don’t put special characters in your responses
 # Examples 
 Before specifying details of all the elements, let's build some quick examples
 
+# Core xHTML
+| Tag           | Attributes           | Mandatory  | Comments
+| ------------- |:-------------:| -----:|-----:|
+| `<html>`   |  | N | |
+| `<head>`      |       |  N | |
+| `<body>` |       |    N | |
+| `<meta>` |       |     | |
+| `<br>` |      |     | |  
+| `<a>` |     |     | |  
+| `<form>` |       |     | |  
+| `<input>` |      |     | |  
